@@ -1,0 +1,4 @@
+train: Yolo38Img/images/train
+val: Yolo38Img/images/valid
+nc: 1
+names: ["barcode"]
