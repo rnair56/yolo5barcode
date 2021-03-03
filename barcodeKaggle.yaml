@@ -1,4 +1,4 @@
-train: /kaggle/input/barcode1/barcode/images/train
-val: /kaggle/input/barcode1/barcode/images/valid
+train: /kaggle/working/yolo5barcode/Yolo38Img/images/train
+val: /kaggle/working/yolo5barcode/Yolo38Img/images/valid
 nc: 1
 names: ["barcode"]
